@@ -1,4 +1,4 @@
-<img width="105" height="29" alt="image" src="https://github.com/user-attachments/assets/5b8c62a8-45a1-4ccc-af21-e2608d51cb8e" /># ScrapPaper-Abstract-Fetcher
+# ScrapPaper-Abstract-Fetcher
 
 A lightweight Python script that reads [ScrapPaper](https://github.com/rafsanlab/ScrapPaper) CSV output and automatically fetches the abstract of each paper, saving each abstract as an individual `.txt` file named after the paper title.
 
